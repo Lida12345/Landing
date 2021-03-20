@@ -1,0 +1,6 @@
+
+git init
+git add redmy.txt
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Lida12345/Landing.git
